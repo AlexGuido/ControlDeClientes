@@ -1,7 +1,6 @@
-# Control de Clientes
+# Control de Clientes (CRUD Frontend/Backend)
+Esta aplicación ofrece una interfaz frontal que muestra la lista de clientes proveniente de una BD en MySQL. Proporciona detalles como el saldo total de todos los clientes y la cantidad total de clientes registrados.
 [![Backend1.png](https://i.postimg.cc/13Fxj341/Backend1.png)](https://postimg.cc/sM30BypT)
-
-Esta aplicación ofrece una interfaz frontal que muestra la lista de clientes proveniente de una BD en MySQL.Proporciona detalles como el saldo total de todos los clientes y la cantidad total de clientes registrados.
 
 La interfaz de usuario se ha diseñado utilizando Bootstrap 5.
 Permite realizar operaciones clave incluyendo listar, actualizar, agregar y eliminar. Este conjunto completo de acciones proporciona una gestión integral de la base de datos de clientes.
